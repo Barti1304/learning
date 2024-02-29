@@ -6,5 +6,7 @@ int main()
 
     std::cout << "(o^_^o)" << std::endl;
 
+    // random comment
+
     return 0;
 }
