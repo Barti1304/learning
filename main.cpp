@@ -1,7 +1,12 @@
 #include <iostream>
 
-int main() 
+void sayHello()
 {
     std::cout << "Hello, World!" << std::endl;
+}
+
+int main() 
+{
+    sayHello();
     return 0;
 }
